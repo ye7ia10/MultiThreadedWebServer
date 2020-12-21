@@ -1,0 +1,14 @@
+get my.txt HTTP
+get index.html HTTP
+get hello.txt HTTP
+post send.txt HTTP
+get my.txt HTTP
+get index.html HTTP
+get hello.txt HTTP
+get my.txt HTTP
+get index.html HTTP
+get hello.txt HTTP
+client_get my.txt HTTP
+client_get index.html HTTP
+client_get hello.txt HTTP
+client_post send.txt HTTP

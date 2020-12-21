@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606762514 source:/home/yehia/TheServer/main.cpp
+	<iostream>
+	<stdio.h>
+	<sys/socket.h>
+	<unistd.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<pthread.h>
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+
